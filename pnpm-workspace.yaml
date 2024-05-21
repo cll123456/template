@@ -1,4 +1,6 @@
 packages:
+  # 主项目
+  - 'front-template'
   - 'packages/*'
   # - 'playground/**'
   # - 'packages/**/__tests__/**'

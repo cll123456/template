@@ -1,23 +1,24 @@
 {
-    "name": "front-template",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "devDependencies": {
-        "typescript": "^5.2.2",
-        "unbuild": "^2.0.0",
-        "vitest": "^1.6.0",
-        "tsx": "^4.9.3",
-        "prettier": "3.2.5",
-        "rimraf": "^5.0.5",
-        "rollup": "^4.13.0",
-        "semver": "^7.6.0",
-        "simple-git-hooks": "^2.11.1"
-    }
+  "name": "front-template",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "unbuild": "^2.0.0",
+    "vitest": "^1.6.0",
+    "tsx": "^4.9.3",
+    "prettier": "3.2.5",
+    "rimraf": "^5.0.5",
+    "rollup": "^4.13.0",
+    "semver": "^7.6.0",
+    "simple-git-hooks": "^2.11.1"
+  }
 }
